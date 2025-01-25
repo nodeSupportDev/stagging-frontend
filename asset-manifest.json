@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/stagging-frontend/static/css/main.0ee70ea0.css",
+    "main.js": "/stagging-frontend/static/js/main.48b2530a.js",
+    "static/js/488.ab1cec53.chunk.js": "/stagging-frontend/static/js/488.ab1cec53.chunk.js",
+    "index.html": "/stagging-frontend/index.html",
+    "main.0ee70ea0.css.map": "/stagging-frontend/static/css/main.0ee70ea0.css.map",
+    "main.48b2530a.js.map": "/stagging-frontend/static/js/main.48b2530a.js.map",
+    "488.ab1cec53.chunk.js.map": "/stagging-frontend/static/js/488.ab1cec53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee70ea0.css",
+    "static/js/main.48b2530a.js"
+  ]
+}
